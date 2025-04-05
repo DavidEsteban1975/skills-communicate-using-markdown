@@ -13,3 +13,9 @@ String myVar = "¡Hola, Mundo!";
 }
 ```
 Hay algo diferente, no aparece igual que en el ejemplo
+
+- [x] Estoy aprendiendo muy *lentamente*
+- [ ] ¿Lograré capitalizar todo ésto?
+- [x] ¡Claro que *sí*!
+
+tampoco la vista previa o avance queda igual que en el ejemplo
